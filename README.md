@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/76112629/233101756-e7f1489a-5d9a-497f-be5b-942b87ff599a.png)]
+![MasterHead](https://user-images.githubusercontent.com/76112629/233101756-e7f1489a-5d9a-497f-be5b-942b87ff599a.png)
 
 <h1 align="center">Hi 👋, I'm Gladwin George</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img_align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76112629/233112260-c46453cd-7798-4936-9f99-a062744909ab.gif">
+<img_align="right" alt="Coding" width="400" src="https://github.com/Gladwin-George/Gladwin-George/blob/main/Untitled%20design%20(1).gif">
 
 - 📫 How to reach me **gladwingeorge189@gmail.com**
 
