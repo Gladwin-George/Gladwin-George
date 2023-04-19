@@ -1,4 +1,4 @@
-[![MasterHead](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)]
+[![MasterHead](https://user-images.githubusercontent.com/76112629/233092493-ec698570-b876-4afe-982e-62ec6de1ef0f.png)]
 
 <h1 align="center">Hi 👋, I'm Gladwin George</h1>
 <h3 align="center">A passionate developer from India</h3>
