@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gladwin George</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img_align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76112629/233109263-3fd0cc57-1d9f-4626-858d-abd33b8b3cdb.gif">
+<img_align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76112629/233112260-c46453cd-7798-4936-9f99-a062744909ab.gif">
 
 - 📫 How to reach me **gladwingeorge189@gmail.com**
 
