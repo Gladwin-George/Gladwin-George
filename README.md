@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/76112629/233101756-e7f1489a-5d9a-497f-be5b-942b87ff599a.png)
+![MasterHead](https://github.com/Gladwin-George/Gladwin-George/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Gladwin George</h1>
 <h3 align="center">A passionate developer from India</h3>
