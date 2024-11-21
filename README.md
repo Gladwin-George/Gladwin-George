@@ -1,4 +1,4 @@
-👋![MasterHead](images/banner.png)
+![MasterHead](images/banner.png)
 
 <h1 align="center">Hi 👋, I'm Gladwin George</h1>
 <h3 align="center">A passionate developer from India</h3>
