@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUyMTdhNmI1NjNlMGI1YjJmZjU0MzgwN2RlMzNkY2Q5MDRjZWM2MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Passionate AI Engineer committed to building smarter solutions with Data and AI by integrating advanced algorithms, insightful analysis, and hands-on innovation.
+I'm a passionate data enthusiast on a journey to understand data, Artificial Intelligence, and Machine Learning to make wonders.
 
 
 ⚡ Fun fact **I am an introvert till you know me**
